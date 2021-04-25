@@ -1,0 +1,6 @@
+1.Download the code in your OS(zip file). 
+2.You need to have a java compiler to run this program.
+3.Download the necessary java compiler or IDE.
+4.Run the code in your IDE(example-eclipes.netbeans etc).
+5.Provide the necessary inputs for the program.
+
